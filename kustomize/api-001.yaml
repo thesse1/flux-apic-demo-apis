@@ -12,4 +12,4 @@ spec:
       url: https://thesstorage.blob.core.windows.net/petstore/petstore-swagger-without-security-definitions.json
     properties:
       title: flux-demo-api-001
-      version: "001a"
+      version: "001"
